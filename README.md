@@ -69,6 +69,6 @@ In future projects, I plan to continue improving my CSS Grid and Flexbox skills.
 
 ## Author
 
-- Website - Stephen [https://xaintobas.github.io/qrcode/]
+- Website - Stephen [https://xaintobas.github.io/Testimonials-grid/]
 - Frontend Mentor - https://www.frontendmentor.io/profile/xaintobas
 - Twitter - https://x.com/xaint_obas
