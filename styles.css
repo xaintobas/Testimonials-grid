@@ -42,23 +42,23 @@ body{
   position: relative;
 }
 
-h4, h5{
+h2, h3{
   margin: 0;
 }
 
-.user-info > h4{
+.user-info > h2{
   color: hsl(0, 0%, 81%);
   font-size: .7rem;
   font-weight: 600;
 }
 
-.user-info > h5{
+.user-info > h3{
   color: hsl(215, 9%, 74%);
   font-size: .6rem;
   font-weight: 500;
 }
 
-h3{
+h1{
   color: white;
   line-height: 1.3rem;
   font-size: 1rem;
@@ -85,7 +85,7 @@ p{
 .card--white{
   background-color: hsl(0, 0%, 100%);
 }
-.card--white h3, .card--white h4{
+.card--white h1, .card--white h2{
   color: hsl(219, 29%, 14%);
 }
 .card--white p{
